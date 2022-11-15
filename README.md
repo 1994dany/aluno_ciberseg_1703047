@@ -5,6 +5,10 @@
 # Sistemas Distribuídos
 
 ## nome do trabalho
+Implementação de função isPrimeMersenne(x) que encontra toos os primos 
+de Mersenne até x (inclusive) e retorna ao cliente o resultado. cliente envia
+um valor inteiro para o servidor verificar a pedir todos os primos de Marsenne
+até valor (inclusive). 
 
 ## Aluno: Danilson Gomes 1703047 
 
