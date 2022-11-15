@@ -1,10 +1,13 @@
-                       # aluno_ciberseg_1703047
-                   # Relatório do Trabalho prático
-                        # Sistemas Distribuídos
+# aluno_ciberseg_1703047
 
-                          ## nome do trabalho
+# Relatório do Trabalho prático
 
-                    ## Aluno: Danilson Gomes 1703047 
+# Sistemas Distribuídos
+
+## nome do trabalho
+
+## Aluno: Danilson Gomes 1703047 
+
 ## https://github.com/1994dany danilsongomes218@gmail.com
 
 ## 1.Descrição do Trabalho
